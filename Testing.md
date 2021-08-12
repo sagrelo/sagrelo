@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Sebastian
+- 👀 I’m interested in learn GitHub
+- 🌱 I’m currently learning bash scripting
+- 💞️ I’m looking to collaborate on some work proyect
+- 📫 How to reach me sebastian.agrelo@gmail.com
+
+<!---
+sagrelo/sagrelo is a ✨ special ✨ repository because its `Testing.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
