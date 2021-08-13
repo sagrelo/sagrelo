@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Hola mundo"
+echo " Escriba su nombre: "
+read;
+echo "Hola mundo. Mi nombre es ${TEST}"
