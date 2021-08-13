@@ -6,6 +6,7 @@
 - Making a first modification from GitHub
 - Making second modification from VS Code
 - Something else...
+- Additional code...
 
 <!---
 sagrelo/sagrelo is a ✨ special ✨ repository because its `Testing.md` (this file) appears on your GitHub profile.
